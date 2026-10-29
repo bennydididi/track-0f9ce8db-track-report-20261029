@@ -1,0 +1,20 @@
+start 2026-10-29 16:19:51 CST
+slug faucet-cartridge-identifier
+name 水龙头阀芯拍照识别
+kw expand attempt 1 2026-10-29 16:19:51 CST
+kw expand done 2026-10-29 16:23:49 CST
+serp start 2026-10-29 16:23:49 CST
+serp done ec=0 2026-10-29 22:27:49 CST
+report start 2026-10-29 22:27:49 CST
+
+report done 2026-10-29T22:39:43.306560+08:00
+report stage start 2026-10-29T22:27:49+08:00
+report stage elapsed 0小时11分54秒
+this-round explicit probe start 2026-10-29T14:28:57.260745+00:00
+this-round probe-to-delivery elapsed 0小时10分46秒
+keyword expansion elapsed 3分58秒
+precollected SERP elapsed 6小时4分0秒
+pipeline wall time 6小时19分52秒
+notes 预采集SERP耗时不视为本轮人工研究工时；报告阶段起点沿用阶段交接记录。
+report end 2026-10-29 22:39:48 CST 用时 11 分钟
+done faucet-cartridge-identifier 2026-10-29 22:39:48 CST
